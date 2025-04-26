@@ -33,12 +33,19 @@ Sao chép
 Chỉnh sửa
 Deeplearning2/
 ├── chaythu.py          # Huấn luyện mô hình từ dữ liệu
+
 ├── test2.py            # Dự đoán thuốc từ dữ liệu mới
+
 ├── drug200.csv         # Tập dữ liệu gốc để huấn luyện
+
 ├── new_data.csv        # Dữ liệu đầu vào mới để kiểm thử
+
 ├── drug_model.pth      # File lưu mô hình đã huấn luyện
+
 ├── DEEPLEARNINGG.docx  # Tài liệu báo cáo mô tả chi tiết
+
 └── .gitignore
+
 📊 Dữ liệu
 drug200.csv: Gồm 6 cột:
 
