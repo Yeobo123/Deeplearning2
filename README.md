@@ -1,4 +1,5 @@
-💊 Dự án Phân Loại Thuốc bằng Deep Learning với PyTorch
+# 💊 Dự án Phân Loại Thuốc bằng Deep Learning với PyTorch
+
 Dự án này sử dụng Deep Learning (PyTorch) để dự đoán loại thuốc phù hợp cho từng bệnh nhân dựa trên các đặc trưng đầu vào như: độ tuổi, giới tính, huyết áp, cholesterol và tỉ lệ natri-kali trong cơ thể.
 
 ✅ Mục tiêu
